@@ -1,4 +1,0 @@
-#!/bin/bash
-cat $1 | hexdump | cut -c10- | tr -d '\040\011\012\015' | while read line; do
-echo "$line" | h2b2
-done
