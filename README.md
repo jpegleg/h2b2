@@ -1,2 +1,3 @@
 # h2b2
-Convert hex to binary with h2b2 or convert content to hex and then binary with h2b2dump.
+Convert hex to binary with h2b2:
+echo "7975700a" | h2b2
