@@ -5,3 +5,8 @@ cp h2b2 /usr/local/bin/
 else
 sudo cp h2b2 /usr/local/bin/
 fi
+if [[$(user) == root]]; then
+cp h2b2-dump /usr/local/bin/
+else
+sudo cp h2b2-dump /usr/local/bin/
+fi
