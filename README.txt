@@ -6,4 +6,4 @@ Or you could just try to send things to it:
 
 /your/things/and/stuff | h2b2
 
-But it will segfault if you put to much in at once.
+But it will segfault if you put too much in at once.
