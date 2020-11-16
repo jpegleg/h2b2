@@ -23,3 +23,5 @@ This limit is intentionally coded into the program. Modify as desired if you nee
 Chunking the hex input if larger than 1000 is the intended design there.
 Example of a larger data set being chunked up into pieces for h2b2.
 openssl rand -hex 9999999999 | fold -c1000 | while read line; do echo $line | h2b2; done
+
+
