@@ -1,6 +1,5 @@
 #!/bin/sh
 
-cp h2b2 /usr/local/bin/h2b2
 chmod +x /usr/local/bin/h2b2
 
 exit 0
