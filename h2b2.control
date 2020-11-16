@@ -1,0 +1,9 @@
+Package: h2b2
+Version: 2.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 17K
+Maintainer: https://github.com/jpegleg/
+Description: Convert hex to binary text
